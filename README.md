@@ -1,4 +1,4 @@
-#Correr comando npm update en el directorio para descargar la carpeta node_modules que git no permite subir
+# Correr comando npm update en el directorio para descargar la carpeta node_modules que git no permite subir
 
 # ClientesCMV
 

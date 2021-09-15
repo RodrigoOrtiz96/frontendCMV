@@ -1,3 +1,5 @@
+#Correr comando npm update en el directorio para descargar la carpeta node_modules que git no permite subir
+
 # ClientesCMV
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
